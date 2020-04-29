@@ -10,4 +10,4 @@ ${RECIPIENT}            spinjala@opteamix.com
 Send message
     Send Message       recipients=${RECIPIENT}
     ...                subject=Message from RPA
-    ...                body=Sending message body contains more details
+    ...                body=Sending message body contains mor
